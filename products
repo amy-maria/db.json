@@ -1,0 +1,9 @@
+{
+  "products": [
+    { "id": 1, "productName": "iPhone13", "price": 1000, "quantity": 0 },
+    { "id": 2, "productName": "iPhone13Pro", "price": 1500, "quantity": 2 },
+    { "id": 3, "productName": "Samsumg Galaxy", "price": 700, "quantity": 5 },
+    { "id": 4, "productName": "iPad Air", "price": 800, "quantity": 2 },
+    { "id": 5, "productName": "MacBook Air", "price": 2000, "quantity": 4 }
+  ]
+}
